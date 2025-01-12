@@ -138,7 +138,7 @@ Choose your development environment:
 
 #### Docker Images
 
-- Build Docker images for CPU, CUDA and ROCm:
+- Build Docker images:
 
     ```bash
     docker build -t {{{PROJECT-NAME}}}:latest .
